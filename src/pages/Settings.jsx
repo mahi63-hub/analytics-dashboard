@@ -25,7 +25,6 @@ function Settings() {
 
       <form data-testid="settings-form">
 
-        {/* Currency */}
         <div>
           <label>Currency: </label>
           <select
@@ -39,7 +38,6 @@ function Settings() {
           </select>
         </div>
 
-        {/* Timezone */}
         <div style={{ marginTop: "15px" }}>
           <label>Timezone: </label>
           <select
@@ -53,7 +51,6 @@ function Settings() {
           </select>
         </div>
 
-        {/* Notifications */}
         <div style={{ marginTop: "15px" }}>
           <label>
             <input
@@ -66,7 +63,6 @@ function Settings() {
           </label>
         </div>
 
-        {/* Theme */}
             <div
             style={{
                 padding: "20px",
@@ -87,7 +83,6 @@ function Settings() {
           </button>
         </div>
 
-        {/* Buttons */}
         <div style={{ marginTop: "20px" }}>
           <button
             type="button"
