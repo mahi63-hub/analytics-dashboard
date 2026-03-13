@@ -1,0 +1,6 @@
+{
+  "all": true,
+  "include": ["src/**/*.js", "src/**/*.jsx"],
+  "reporter": ["html", "json-summary", "clover"],
+  "report-dir": "coverage"
+}

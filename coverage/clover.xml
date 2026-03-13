@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1773419585925" clover="3.2.0">
+  <project timestamp="1773419585925" name="All files">
+    <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0" elements="0" coveredelements="0" complexity="0" loc="0" ncloc="0" packages="2" files="5" classes="5"/>
+    <package name="src">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="App.jsx" path="C:/Users/Dell/OneDrive/Documents/GPP/analytics-dashboard/src/App.jsx">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="main.jsx" path="C:/Users/Dell/OneDrive/Documents/GPP/analytics-dashboard/src/main.jsx">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="src.pages">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="Dashboard.jsx" path="C:/Users/Dell/OneDrive/Documents/GPP/analytics-dashboard/src/pages/Dashboard.jsx">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="Data.jsx" path="C:/Users/Dell/OneDrive/Documents/GPP/analytics-dashboard/src/pages/Data.jsx">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="Settings.jsx" path="C:/Users/Dell/OneDrive/Documents/GPP/analytics-dashboard/src/pages/Settings.jsx">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+  </project>
+</coverage>
